@@ -1,0 +1,1 @@
+Aqui va toda la estructura del servidor detector de extorsiones quien a través de la conexión con el resultado de análisis semántico y detección de objetos enviará la notificación a la UPC cercana y a la alarma.
