@@ -1,1 +1,0 @@
-Aqui va toda la estructura del modelo de audio, desde la conexión a tiempo real, transcripción y análisis semántico
